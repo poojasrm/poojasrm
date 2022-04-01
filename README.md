@@ -14,14 +14,6 @@ Contact me:
 <a href="mailto:pooojasrm@gmail.com">
   <img align="left" alt="Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
 </a>
-<!--
-<a href="https://www.linkedin.com/in/himanshuthecoder/">
+<a href="https://www.linkedin.com/in/poojasrm/">
   <img align="left" alt="LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
 </a>
-
-
-
-<a href="https://www.instagram.com/himanshuthecoder/">
-  <img align="left" alt="LinkedIn" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>
-</a>-->
-
