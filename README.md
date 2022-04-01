@@ -11,6 +11,7 @@
 - ⚡ Fun fact: after pronouncing above word, you are smilling. I hope, you did well.
 
 Contact me:
+
 <a href="mailto:pooojasrm@gmail.com">
   <img align="left" alt="Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
 </a>
